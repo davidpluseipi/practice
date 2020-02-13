@@ -1,0 +1,1 @@
+cmd: g++ -o $HOME/projects/practice/assignment/build/assignment assignment.cpp
